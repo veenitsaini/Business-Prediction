@@ -32,5 +32,3 @@ It takes input data from users, processes it using a trained model, and returns 
 - Deployment: Vercel  
 
 ---
-
-## 📂 Project Structure  
